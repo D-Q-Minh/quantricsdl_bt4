@@ -25,9 +25,9 @@ deadline: 15/4/2025
 ###### Bảng monhoc:
 ![3](https://github.com/user-attachments/assets/7bc09fe1-c0e6-46d1-9b15-b1c008dcc2b4)
 ###### Bảng lop:
-![4](https://github.com/user-attachments/assets/ccb879f4-6731-43a6-9eff-e930a94b8143)
+![4](https://github.com/user-attachments/assets/0515d83a-c24e-43dd-b576-e23011ab053f)
 ###### Bảng phong:
-![5](https://github.com/user-attachments/assets/2492649a-9f2c-4b7f-b6ff-c7c8aba8cf2c)
+![5](https://github.com/user-attachments/assets/accc263b-5f3e-4f55-b0b5-fb32f6017912)
 ###### Bảng tkb:
 ![image](https://github.com/user-attachments/assets/12784299-6255-4575-aabc-787dffe8df73)
 
@@ -46,3 +46,16 @@ deadline: 15/4/2025
 ![fk 3](https://github.com/user-attachments/assets/0d39c67e-31c2-41d7-8dad-2f489b85458a)
 ![fk 4](https://github.com/user-attachments/assets/8028c445-9f0b-434d-9c32-dee95ffbbb00)
 ![pk 5](https://github.com/user-attachments/assets/81b74eb2-5c4c-412b-bc90-498bafb5eb6b)
+
+![image](https://github.com/user-attachments/assets/cc8d77f5-fa70-4688-8070-280d3ca6b5be)
+
+#### 3.Thêm dữ liệu từ tms.tnut.edu.vn
+###### Copy dữ liệu từ nguồn TMS.tnut.edu.vn, patse vào Excel sau đó thực hiện dán các dữ liệu cần thiết vào các bảng ở mục
+###### Bảng gv:
+![dl 1](https://github.com/user-attachments/assets/c8846483-54c8-4d22-a3b7-01ab5a3d7e80)
+###### Bảng monhoc:
+![dl 2](https://github.com/user-attachments/assets/2d50f1a1-c4c8-425f-b26a-6d5908619146)
+###### Bảng lop:
+###### Bảng phong:
+
+###### Bảng tkb:
