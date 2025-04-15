@@ -29,7 +29,7 @@ deadline: 15/4/2025
 ###### Bảng phong:
 ![5](https://github.com/user-attachments/assets/accc263b-5f3e-4f55-b0b5-fb32f6017912)
 ###### Bảng tkb:
-![image](https://github.com/user-attachments/assets/12784299-6255-4575-aabc-787dffe8df73)
+![6](https://github.com/user-attachments/assets/e013bb81-1b2c-4da5-a1f2-947a5edadeb5)
 
 ##### 2.Đặt các khóa chính, khóa ngoại
 ###### Bảng gv:
@@ -37,9 +37,9 @@ deadline: 15/4/2025
 ###### Bảng monhoc:
 ![pk 2](https://github.com/user-attachments/assets/831fe4ea-24d2-4907-b29f-b54431651f92)
 ###### Bảng lop:
-![pk 3](https://github.com/user-attachments/assets/62dc0fe4-3951-46e2-a6aa-9254826ac2f0)
+![4](https://github.com/user-attachments/assets/dd3472aa-78d8-4fbb-9fd0-27cf0b7a9330)
 ###### Bảng phong:
-![pk 4](https://github.com/user-attachments/assets/f7ede3ea-c3f0-4c83-bddd-d32a5fbfebe3)
+![5](https://github.com/user-attachments/assets/fad1fe7b-1dbe-44aa-b224-c3fed63e077a)s
 ###### Bảng tkb:
 ![fk 1](https://github.com/user-attachments/assets/6a12efd4-4bdb-43a8-b3b5-518de168cef0)
 ![fk 2](https://github.com/user-attachments/assets/8ddefb09-f4c7-45c1-bc89-4b15f1ec4771)
@@ -47,15 +47,16 @@ deadline: 15/4/2025
 ![fk 4](https://github.com/user-attachments/assets/8028c445-9f0b-434d-9c32-dee95ffbbb00)
 ![pk 5](https://github.com/user-attachments/assets/81b74eb2-5c4c-412b-bc90-498bafb5eb6b)
 
-![image](https://github.com/user-attachments/assets/cc8d77f5-fa70-4688-8070-280d3ca6b5be)
+![pk 6](https://github.com/user-attachments/assets/1937c371-5551-4c65-a64f-68711bb2b6fc)
 
 #### 3.Thêm dữ liệu từ tms.tnut.edu.vn
 ###### Copy dữ liệu từ nguồn TMS.tnut.edu.vn, patse vào Excel sau đó thực hiện dán các dữ liệu cần thiết vào các bảng ở mục
 ###### Bảng gv:
-![dl 1](https://github.com/user-attachments/assets/c8846483-54c8-4d22-a3b7-01ab5a3d7e80)
+![dl 1](https://github.com/user-attachments/assets/e691e2ab-54c2-4b85-9b37-dc08e05ce8a9)
 ###### Bảng monhoc:
-![dl 2](https://github.com/user-attachments/assets/2d50f1a1-c4c8-425f-b26a-6d5908619146)
+![dl 2](https://github.com/user-attachments/assets/4cf0c4c4-dfcf-4091-980c-dc0c0a55589b)
 ###### Bảng lop:
+![dl 3](https://github.com/user-attachments/assets/37c3e662-fe71-40d3-98af-382e076f2d9d)
 ###### Bảng phong:
-
+![dl 4](https://github.com/user-attachments/assets/e3f46181-3c2a-4bd8-a02a-ccb87fc5f5c0)
 ###### Bảng tkb:
