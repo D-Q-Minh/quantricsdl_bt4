@@ -76,3 +76,18 @@ join gv on tkb.magv=gv.magv
 join monhoc on tkb.mamon=monhoc.mamon
 ```
 ![truy van](https://github.com/user-attachments/assets/ce8fda99-631a-4571-a44b-a492a9181f65)
+
+###### trả lời câu hỏi: trong khoảng thời gian từ datetime1 tới datetime2 thì có những gv nào đang bận giảng dạy.
+```sql
+select
+gv.tengv,
+tkb.giovao,
+tkb.giora,
+tkb.ngay
+from tkb
+join gv on tkb.magv=gv.magv
+join monhoc on tkb.mamon=monhoc.mamon
+
+where tkb.giovao <= '7:00:00' and tkb.giora >'8:00:00'
+```
+![truy van 1](https://github.com/user-attachments/assets/38cf0670-1021-4869-a82e-84f0c5a1f4a0)
