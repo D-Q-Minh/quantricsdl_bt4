@@ -60,3 +60,19 @@ deadline: 15/4/2025
 ###### Bảng phong:
 ![dl 4](https://github.com/user-attachments/assets/e3f46181-3c2a-4bd8-a02a-ccb87fc5f5c0)
 ###### Bảng tkb:
+![dl 5](https://github.com/user-attachments/assets/cce5a73a-be60-470b-9f3b-2bef1c65fc38)
+
+#### 4. Truy vấn thông tin
+###### truy vấn ra thông tin gồm 4 cột: họ tên gv, môn dạy, giờ vào lớp, giờ ra
+```sql
+select
+gv.tengv,
+monhoc.tenmon,
+tkb.giovao,
+tkb.giora,
+tkb.ngay
+from tkb
+join gv on tkb.magv=gv.magv
+join monhoc on tkb.mamon=monhoc.mamon
+```
+![truy van](https://github.com/user-attachments/assets/ce8fda99-631a-4571-a44b-a492a9181f65)
