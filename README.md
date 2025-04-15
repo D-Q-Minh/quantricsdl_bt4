@@ -31,4 +31,18 @@ deadline: 15/4/2025
 ###### Bảng tkb:
 ![image](https://github.com/user-attachments/assets/12784299-6255-4575-aabc-787dffe8df73)
 
-##### 
+##### 2.Đặt các khóa chính, khóa ngoại
+###### Bảng gv:
+![pk 1](https://github.com/user-attachments/assets/42128a3c-de1d-482c-8d7a-9758e29e0518)
+###### Bảng monhoc:
+![pk 2](https://github.com/user-attachments/assets/831fe4ea-24d2-4907-b29f-b54431651f92)
+###### Bảng lop:
+![pk 3](https://github.com/user-attachments/assets/62dc0fe4-3951-46e2-a6aa-9254826ac2f0)
+###### Bảng phong:
+![pk 4](https://github.com/user-attachments/assets/f7ede3ea-c3f0-4c83-bddd-d32a5fbfebe3)
+###### Bảng tkb:
+![fk 1](https://github.com/user-attachments/assets/6a12efd4-4bdb-43a8-b3b5-518de168cef0)
+![fk 2](https://github.com/user-attachments/assets/8ddefb09-f4c7-45c1-bc89-4b15f1ec4771)
+![fk 3](https://github.com/user-attachments/assets/0d39c67e-31c2-41d7-8dad-2f489b85458a)
+![fk 4](https://github.com/user-attachments/assets/8028c445-9f0b-434d-9c32-dee95ffbbb00)
+![pk 5](https://github.com/user-attachments/assets/81b74eb2-5c4c-412b-bc90-498bafb5eb6b)
